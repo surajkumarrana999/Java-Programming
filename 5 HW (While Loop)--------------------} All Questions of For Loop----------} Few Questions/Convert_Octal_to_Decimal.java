@@ -16,7 +16,7 @@ class Convert_Octal_to_Decimal
 			a=a*8;
 			n=n/10;
 		}
-		System.out.println("Octal no. of "+num+" = "+dn);
+		System.out.println("Decimal no. of "+num+" = "+dn);
 		input.close();
 	}
 }
